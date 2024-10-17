@@ -1,0 +1,168 @@
+.a {
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+.b {
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+.c {
+    font-weight: 500;
+    line-height: 22.4px;
+}
+
+.d {
+    font-weight: 400;
+    line-height: 16.8px;
+
+}
+
+.sort {
+    font-weight: 500;
+    line-height: 19.6px;
+}
+
+.rel {
+    font-weight: 400;
+    line-height: 19.6px;
+}
+
+.nav-fonts {
+    font-weight: 500;
+    line-height: 20px;
+    tab-size: 4;
+    letter-spacing: 0.1px;
+
+}
+
+.two {
+    font-weight: 500;
+    line-height: 19.6px;
+    box-sizing: border-box;
+    text-size-adjust: 100%;
+
+
+}
+
+.mobiles-price {
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.footer {
+    background-color: #172337;
+}
+
+.add {
+    font-weight: 400;
+    line-height: 14px;
+}
+
+.brand-name {
+    font-weight: 500;
+    line-height: 18px;
+}
+
+.rating {
+    font-weight: 500;
+    line-height: 14px;
+}
+
+.features {
+    line-height: 22px;
+    font-weight: 400;
+}
+
+.og {
+    font-weight: 400;
+    line-height: 14px;
+}
+
+.pers {
+    font-weight: 500;
+    line-height: 13px;
+}
+
+.free {
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.save {
+    font-weight: 700;
+    line-height: 12px;
+}
+
+.upto {
+    font-weight: 400;
+    line-height: 14px;
+}
+
+.filter {
+    font-weight: 500;
+    line-height: 25.2px;
+}
+
+.cat {
+    font-weight: 500;
+    line-height: 16.8px;
+}
+
+.mob {
+    font-weight: 400;
+    line-height: 19.6px;
+}
+
+.mobiles {
+    font-weight: 500;
+    line-height: 19.6px;
+}
+
+.side {
+    font-weight: 500;
+    line-height: 18.2px;
+}
+
+.review {
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.review-price {
+    font-weight: 500;
+}
+
+.review-perc {
+    font-weight: 400;
+}
+
+/* .review-features{ */
+/* font-weight: 400;
+    line-height: 1.4px;
+} */
+.main-comment {
+    font-weight: 500;
+    line-height: 19.6px;
+}
+
+.comment {
+    font-weight: 400;
+    line-height: 19.6px;
+}
+
+.user {
+    font-weight: 400;
+    line-height: 16.8px;
+}
+
+.scrollbar::-webkit-scrollbar {
+    display: none;
+}
+.header-two{
+    font-weight: 600;
+}
+
